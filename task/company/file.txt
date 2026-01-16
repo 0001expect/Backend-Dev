@@ -1,0 +1,2 @@
+amazon, paytm, microsoft, google, infosys
+netflix, disney
