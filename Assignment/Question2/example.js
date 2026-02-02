@@ -1,5 +1,5 @@
 const utils = require('./stringUtils');
-let str = "priyanshu varshney"
+let str = "dev sharma"
 
 console.log(utils.capitalizingFirstLetter(str));
 console.log(utils.capitalizingString(str));
