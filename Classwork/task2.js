@@ -50,5 +50,5 @@ ERROR Count   : ${errorCount}
 `;
 
     fs.writeFileSync(summaryFile, summary);
-    console.log('✅ Log analysis completed. Summary generated at', summaryFile);
+    console.log(' Log analysis completed. Summary generated at', summaryFile);
 });
